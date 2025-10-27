@@ -1,6 +1,6 @@
 # 🧾 DIY Citric-Citrate Rust-Removal Solution
 
-*(Safe for 304 SS Ultrasonic Tanks & Septic Systems)*
+*An excellent rust-remover recipe that's safe for Ultrasonic cleaners (304 SS) & Septic Systems*
 
 ### 🧂 **Your Stock**
 
