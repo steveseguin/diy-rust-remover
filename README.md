@@ -96,7 +96,3 @@ Then apply light oil / WD-40 / wax to prevent flash rust.
 * **Yield:** ≈ 25 L (6.5 US gal) full-strength solution
 * **Safe, effective, non-toxic, ultrasonic-compatible**
 * **Always dry and oil after cleaning**
-
----
-
-Would you like me to render this as a **clean printable PDF** (Letter or A4) with bold section boxes for easy wall posting?
