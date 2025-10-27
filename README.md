@@ -1,7 +1,3 @@
-Here’s a concise **printable workshop guide** rewritten for a **5 lb (≈ 2.3 kg) citric acid** and **2 lb (≈ 0.9 kg) sodium carbonate** stock — no tank assumptions, just total solution yield.
-
----
-
 # 🧾 DIY Citric-Citrate Rust-Removal Solution
 
 *(Safe for 304 SS Ultrasonic Tanks & Septic Systems)*
